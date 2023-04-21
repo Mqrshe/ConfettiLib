@@ -1,5 +1,7 @@
 package org.confetti;
 
+
+
 public class ConfettiConfig {
 
     private final ConfettiShape shape;
